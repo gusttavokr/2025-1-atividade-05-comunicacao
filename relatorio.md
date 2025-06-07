@@ -31,7 +31,7 @@ gcc reader_mem.c -o reader_mem
 - Utiliza chamadas como `fopen`, `fread`, `rename`, e `access`.
 
 #### Execução
-![Imagem da execução via arquivo com processos](imagem.png)
+![Imagem da execução via arquivo com processos](image.png)
 
 ---
 
@@ -42,7 +42,7 @@ gcc reader_mem.c -o reader_mem
 - Utiliza `pthread_mutex_t` e `pthread_cond_t` para sincronização.
 
 #### Execução
-![Imagem da execução via arquivo com threads](imagem-1.png)
+![Imagem da execução via arquivo com threads](image-1.png)
 
 ---
 
