@@ -1,11 +1,3 @@
-1) Writer simples
-![alt text](image.png)
-
-2) Reader simples
-![alt text](image-1.png)
-
-3) Resultado
-
 # Relatório Comparativo: Comunicação entre Processos vs. Threads
 
 ## Introdução
